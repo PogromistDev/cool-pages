@@ -8,6 +8,7 @@ A cool list of websites
 * [Keyboard Keycodes](https://keycode.info)
 * **WebAssembly**
   * [WebAssembly studio](https://webassembly.studio)
+* [ObservableHQ](https://observablehq.com) - data visualization with JavaScript notebooks
 # NodeJS
 * [NPM](https://npmjs.org)
 * [NodeJS dev](https://nodejs.dev)
