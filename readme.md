@@ -30,6 +30,7 @@ A cool list of websites
 * [Create app](https://createapp.dev/) - 
 * [Carbon now sh](https://carbon.now.sh/) - create and share beautiful images of your source code
 * [Browserling tools](https://www.browserling.com/tools) - tons of online tools
+* [Color tool](https://hexcolor.co/) - generate colors
 # Icons
 * [Icons8](https://icons8.com/) 
 * [Feather Icons](https://feathericons.com/) - feather – simply beautiful open source icons
