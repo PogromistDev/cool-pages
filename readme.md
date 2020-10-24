@@ -24,10 +24,12 @@ A cool list of websites
 * [Ascii Table](http://www.asciitable.com/)
 * [Unicode.org](https://www.unicode.org/)
 * [Unicode Characters](http://graphemica.com/unicode/characters)
+# Design
+* [https://desdev.tools](DesDevTools) - Design and development tools
 # FrontEnd
 * [Interneting is hard](https://internetingishard.com/)
 # Web tools
-* [Create app](https://createapp.dev/) - 
+* [Create app](https://createapp.dev/)
 * [Carbon now sh](https://carbon.now.sh/) - create and share beautiful images of your source code
 * [Browserling tools](https://www.browserling.com/tools) - tons of online tools
 # Color Generators
