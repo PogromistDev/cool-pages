@@ -32,6 +32,7 @@ A cool list of websites
 * [Create app](https://createapp.dev/)
 * [Carbon now sh](https://carbon.now.sh/) - create and share beautiful images of your source code
 * [Browserling tools](https://www.browserling.com/tools) - tons of online tools
+* [HexEdit](https://hexed.it) - view and edit files in hex representation
 # Color Generators
 * [HexColor](https://hexcolor.co/)
 * [Coolors](https://coolors.co/)
