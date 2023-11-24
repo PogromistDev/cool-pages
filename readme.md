@@ -33,6 +33,7 @@ A cool list of websites
 * [Unicode Characters](http://graphemica.com/unicode/characters)
 # Design
 * [https://desdev.tools](DesDevTools) - Design and development tools
+* [https://cccreate.co/](CCCreate) - a carefully curated collection of tools & resources for web creators
 # FrontEnd
 * [Interneting is hard](https://internetingishard.com/)
 # Web tools
@@ -45,6 +46,9 @@ A cool list of websites
 * [Coolors](https://coolors.co/)
 * [MyColorSpace](https://mycolor.space/)
 * [ColorHunt](https://colorhunt.co/)
+* [CCColor](https://fffuel.co/cccolor/)
+* [PPPalette](https://fffuel.co/pppalette/)
+* [HHHue](https://fffuel.co/hhhue/)
 # Icons
 * [Icons8](https://icons8.com/) 
 * [Feather Icons](https://feathericons.com/) - feather – simply beautiful open source icons
