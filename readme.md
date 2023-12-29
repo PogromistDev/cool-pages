@@ -32,9 +32,9 @@ A cool list of websites
 * [Unicode.org](https://www.unicode.org/)
 * [Unicode Characters](http://graphemica.com/unicode/characters)
 # Design
-* [https://desdev.tools](DesDevTools) - Design and development tools
-* [https://cccreate.co/](CCCreate) - a carefully curated collection of tools & resources for web creators
-* [https://fffuel.co/](FFFuel) - fffuel is a collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds
+* [DesDevTools](https://desdev.tools) - Design and development tools
+* [CCCreate](https://cccreate.co/) - a carefully curated collection of tools & resources for web creators
+* [FFFuel](https://fffuel.co/) - fffuel is a collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds
 # FrontEnd
 * [Interneting is hard](https://internetingishard.com/)
 # Web tools
