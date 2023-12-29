@@ -36,7 +36,7 @@ A cool list of websites
 * [CCCreate](https://cccreate.co/) - a carefully curated collection of tools & resources for web creators
 * [FFFuel](https://fffuel.co/) - fffuel is a collection of color tools and free SVG generators for gradients, patterns, textures, shapes & backgrounds
 # FrontEnd
-* [Interneting is hard](https://internetingishard.com/)
+* [Interneting is hard](https://internetingishard.netlify.app/)
 # Web tools
 * [Create app](https://createapp.dev/)
 * [Carbon now sh](https://carbon.now.sh/) - create and share beautiful images of your source code
