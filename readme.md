@@ -60,7 +60,6 @@ A cool list of websites
 * [DevDocs](https://devdocs.io/) - offline dev documentations
 # Info
 * [Libraries.io](https://libraries.io/)
-* [What problem does it solve?](https://what-problem-does-it-solve.com/)
 # Social
 * [dev.to](https://dev.to/)
 * [HashNode](https://hashnode.com/)
